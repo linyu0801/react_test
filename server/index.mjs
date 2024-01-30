@@ -21,7 +21,7 @@ const initServer = async () => {
   });
   app.use(routes);
 
-  const PORT = 8000;
+  const PORT = 9000;
   app.listen(PORT, () => {
     console.log(`Server listening on ${PORT}`);
   });

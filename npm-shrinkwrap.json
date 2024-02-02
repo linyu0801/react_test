@@ -1,11 +1,11 @@
 {
-  "name": "codesplain",
+  "name": "react-test-practce",
   "version": "0.1.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "codesplain",
+      "name": "react-test-practce",
       "version": "0.1.0",
       "dependencies": {
         "@exuanbo/file-icons-js": "^3.3.0",
